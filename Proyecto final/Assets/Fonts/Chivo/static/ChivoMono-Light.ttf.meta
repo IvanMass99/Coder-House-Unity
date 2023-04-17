@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 0d39bdfb30ab8a044a916965fac47ca0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chivo Mono
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4c14d24a384880148a91eff487ac21ff, type: 3}
+  - {fileID: 12800000, guid: d35244f3e2c419b4bb9ef9219b0f6e44, type: 3}
+  - {fileID: 12800000, guid: 6732ccbbc871ed742b06ab4d6890d910, type: 3}
+  - {fileID: 12800000, guid: f77b7a2a4d3983c499595a3d3c54a232, type: 3}
+  - {fileID: 12800000, guid: c99115ff3b4291e448425011f18c9c4a, type: 3}
+  - {fileID: 12800000, guid: 5151e3d5a5a343846980b722bcaa114e, type: 3}
+  - {fileID: 12800000, guid: e6289f322404d084e8310380e52bd21b, type: 3}
+  - {fileID: 12800000, guid: ea16b933c4ffefd469eee5380e99fc27, type: 3}
+  - {fileID: 12800000, guid: a3d6742ace3e2214192985011db44e8e, type: 3}
+  - {fileID: 12800000, guid: 3c35edbc359f50446bc9c2622597971a, type: 3}
+  - {fileID: 12800000, guid: 52d4fb9fd3a76e74ea0ecc2bd8633e8e, type: 3}
+  - {fileID: 12800000, guid: 1436b286ee8b4944eb648d9f7b6a754e, type: 3}
+  - {fileID: 12800000, guid: 5a6b24c0da2fe204f9350369fea796d5, type: 3}
+  - {fileID: 12800000, guid: 434d1bbf17cc4164fb172d4b6280ea67, type: 3}
+  - {fileID: 12800000, guid: bc703e3f504e6574fa635642d568e8d5, type: 3}
+  - {fileID: 12800000, guid: 79aa9899f12a41a47bfbd77f49ddd1c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
